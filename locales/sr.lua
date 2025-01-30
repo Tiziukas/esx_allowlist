@@ -1,4 +1,4 @@
-Locales['sr'] = {
+return {
   ['allowlist_check']     = 'Proveravam da li ste na listi dozvoljenih.',
   ['not_allowlisted']     = 'Morate biti na listi dozvoljenih na serveru!',
   ['allowlist_empty']     = 'Nema sačuvanih lista dozvoljenih za ovaj server.',

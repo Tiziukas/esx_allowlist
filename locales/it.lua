@@ -1,4 +1,4 @@
-Locales['it'] = {
+return {
   ['allowlist_check']     = 'verifica Allowlist.',
   ['not_allowlisted']     = 'devi essere nella Allowlist per unirti a questo server!',
   ['allowlist_empty']     = 'non ci sono allowlist salvate per questo server.',

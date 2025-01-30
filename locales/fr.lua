@@ -1,4 +1,4 @@
-Locales['fr'] = {
+return {
   ['allowlist_check']     = 'Êtes vous sûr d\'être allowlisté sur ce serveur ...',
   ['not_allowlisted']     = 'Ce serveur utilise une allowlist',
   ['allowlist_empty']     = 'La allowlist n\'a pas été rechargé ou vous n\'avez pas été allowlisté',

@@ -1,4 +1,4 @@
-Locales['fi'] = {
+return {
   ['allowlist_check']     = 'Tarkistetaan onko sinulla oleskelulupaa.',
   ['not_allowlisted']     = 'Sinulla on oltava oleskelulupa, jotta voit liittyä palvelimelle!', 
   ['allowlist_empty']     = 'Tälle palvelimelle ei ole tallennettuja oleskelulupia.', 

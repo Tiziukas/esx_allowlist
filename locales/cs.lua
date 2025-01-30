@@ -1,4 +1,4 @@
-Locales['cs'] = {
+return {
     ['allowlist_check']             = 'Kontroluji, zda máš přístup.',
     ['not_allowlisted']             = 'K tomuto serveru nemáš přístup!',
     ['allowlist_empty']             = 'Na tomto serveru nejsou žádný seznam přístupu.',

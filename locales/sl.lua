@@ -1,4 +1,4 @@
-Locales['sl'] = {
+return {
   ['allowlist_check'] = 'Preveerjanje Seznama Dovoljenih...',
   ['not_allowlisted'] = 'Če se želite povezati na strežnik, morate biti Dovoljeni iz strani Administracije!',
   ['allowlist_empty'] = 'Dovoljenih ni najdenih...',

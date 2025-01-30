@@ -1,4 +1,4 @@
-Locales['nl'] = {
+return {
   ['allowlist_check']     = 'Je toegangspas aan het controleren.',
   ['not_allowlisted']     = 'Je moet een toegangspas hebben om op deze server te spelen!',
   ['allowlist_empty']     = 'Er zijn geen toegangspassen uitgegeven.',

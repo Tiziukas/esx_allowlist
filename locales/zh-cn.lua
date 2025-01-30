@@ -1,4 +1,4 @@
-Locales['zh-cn'] = {
+return {
   ['allowlist_check']     = '检查您是否得到白名单批准.',
   ['not_allowlisted']     = '您必须得到白名单批准方可加入此服务器!',
   ['allowlist_empty']     = '该服务器没有开启白名单.',

@@ -1,4 +1,4 @@
-Locales['sv'] = {
+return {
     ['allowlist_check']     = 'Kollar om du är allowlistad.',
     ['not_allowlisted']     = 'Du måste vara allowlistad för att joina servern!',
     ['allowlist_empty']     = 'Det är inga allowlistade på denna server.',

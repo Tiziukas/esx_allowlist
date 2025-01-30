@@ -1,4 +1,4 @@
-Locales['tr'] = {
+return {
     ['allowlist_check']     = 'Allowlist durumunuz kontrol ediliyor.',
     ['not_allowlisted']     = 'Bu sunucuya katılmak için Allowlist olmanız gerekmektedir!',
     ['allowlist_empty']     = 'Bu sunucu için kayıtlı bir Allowlist bulunmuyor.',

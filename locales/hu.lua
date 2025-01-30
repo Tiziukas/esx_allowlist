@@ -1,4 +1,4 @@
-Locales['hu'] = {
+return {
   ['allowlist_check']     = 'Ellenőrizzük fent vagy-e a engedélyezettek listáján.',
   ['not_allowlisted']     = 'Engedélyezettnek kell lenned ahhoz, hogy csatlakozz ehhez a szerverhez!',
   ['allowlist_empty']     = 'Ehhez a szerverhez nincsenek mentett engedélyezési listák.',
